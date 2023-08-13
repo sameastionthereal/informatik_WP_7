@@ -1,0 +1,25 @@
+html{
+text-align: center;
+
+}
+
+button{
+margin-top:210px;
+padding:10px 20px;
+box-shadow: 0px 0px 100px;
+font-size: 20px;
+
+color: #003cff;
+background-color: rgb(0, 255, 255);
+border-color: aqua;
+
+transition: ease-in-out all 300ms;
+font-family:cursive,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+transform: translate(0px, -4px);
+box-shadow: 0px 10px 100px;
+font-size: 30px;
+
+}
